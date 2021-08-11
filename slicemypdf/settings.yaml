@@ -1,0 +1,6 @@
+pdf_text_path: "/opt/conda/envs/conda-slicemypdf/bin/pdftotext"
+pdf_html_path: "/opt/conda/envs/conda-slicemypdf/bin/pdftohtml"
+
+months: ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'] 
+currencies: ['cad','cdn','canadian dollar','usd','us dollars','u.s. dollars','united states dollar','canadian $','US $','united states $','c$','us$','euro']
+units: ["$000","million","billion","thousand"]
